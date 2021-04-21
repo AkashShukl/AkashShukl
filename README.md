@@ -2,9 +2,9 @@
 
 
 🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
-🌱
 
-### I Work on 
+
+### I Work on 🌱
 <p>
 <img src="/icons/python.png" width="100" height="100"/>
 <img src="/icons/flask.jpg" width="100" height="100"/>
