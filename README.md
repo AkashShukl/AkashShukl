@@ -2,19 +2,21 @@
 
 
 🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
-🌱 I’m currently learning Spring 
+🌱
 
-<h2> I Work on  </h2>
+### I Work on 
+<p>
+<img src="/icons/python.png" width="100" height="100"/>
+<img src="/icons/flask.jpg" width="100" height="100"/>
+<img src="/icons/spring.png" width="100" height="100"/>
+<img src="/icons/js.png" width="100" height="100"/>
+<img src="/icons/react.png" width="100" height="100" />
+</p>
 
-[1.1]: https://github.com/shuklaa884/shuklaa884/blob/master/icons/react.png (linkedin icon with padding)
+## Connect with me on 
 
-[![react][1.1]]
+Linkedin(https://www.linkedin.com/in/shuklaa884)
 
-Few of my Repos You shpuld take a look on :
-
-<ol>
-    <li> Facial Recognition based Attendnace Management System </li>
-</ol>
 
 
 
