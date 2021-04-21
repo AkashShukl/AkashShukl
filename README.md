@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there this is Akash Shukla 👋
 
-<!--
-**shuklaa884/shuklaa884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
+🌱 I’m currently learning Spring 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> I Work on  </h2>
+
+
+
+Few of my Repos You shpuld take a look on :
+
+<ol>
+    <li> Facial Recognition based Attendnace Management System </li>
+</ol>
+
+
+
+<p align='center'> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=shuklaa884-visitor-badge" alt="visitor badge"/> </p>
