@@ -16,13 +16,14 @@
 
 
 ## Projects
-<ol>
-  <li>Face Recognition based Attendance management system</li>
-  <li>Graph Algorithm visualizer </li>
-  <li>Sprting Algorithm visualizer</li>
-  <li>GUI Tic-tac-toe python tkinter</li>
-  <li>Todo list React and Flask </li>
-</ol>
+  <ol>
+    <li>Face Recognition based Attendance management system</li>
+    <li>Graph Algorithm visualizer </li>
+    <li>Sprting Algorithm visualizer</li>
+    <li>GUI Tic-tac-toe python tkinter</li>
+    <li>Todo list React and Flask </li>
+  </ol>
+
 ## Connect with me on 
 
 Linkedin(https://www.linkedin.com/in/shuklaa884)
