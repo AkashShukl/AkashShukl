@@ -23,8 +23,10 @@
   </ol>
 
 ## Connect with me on 
+[<img height = 30px width=30px src = "./icons/linkedin-brands.svg"> Linkedin ](https://www.linkedin.com/in/shuklaa884)
+<br/><br/>
 
-Linkedin(https://www.linkedin.com/in/shuklaa884)
+## [Portfolio Website ](https://akash-portfolio-teal.vercel.app)
 <br/><br/>
 
 
