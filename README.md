@@ -4,15 +4,43 @@
 🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
 
 
-### Stats 🌱
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaa884&langs_count=8&layout=compact&theme=radical"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shuklaa884&hide=contribs,issues&show_icons=true&theme=radical&count_private=true"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shuklaa884)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaa884/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuklaa884@gmail.com)  [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://akash-portfolio-teal.vercel.app)
+
+
+<p bgcolor="white" >
+  <a href="https://github.com/coderpen-me">
+    <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=shuklaa884&hide=contribs,issues&show_icons=true&theme=radical&count_private=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+   <br /> <br /> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+                                                                                                                                                                                            
+</p>
+     
+
+
 
 
 
 ## Projects
+<div>
+  <img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaa884&langs_count=8&layout=compact&theme=radical" />
+
   <ol>
     <li>SkyDrive</li>
     <li>Face Recognition based Attendance management system</li>
@@ -21,10 +49,8 @@
     <li>GUI Tic-tac-toe python tkinter</li>
     <li>Todo list React and Flask </li>
   </ol>
+</div>
 
-## Connect with me on 
-[<img height = 30px width=30px src = "./icons/linkedin-brands.svg"> Linkedin ](https://www.linkedin.com/in/shuklaa884)
-<br/><br/>
 
 ## [Portfolio Website ](https://akash-portfolio-teal.vercel.app)
 <br/><br/>
