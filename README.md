@@ -4,13 +4,13 @@
 🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shuklaa884)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AkashShukl)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaa884/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuklaa884@gmail.com)  [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://akash-portfolio-teal.vercel.app)
 
 
 <p bgcolor="white" >
   <a href="https://github.com/coderpen-me">
-    <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=shuklaa884&hide=contribs,issues&show_icons=true&theme=radical&count_private=true" />
+    <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AkashShukl&hide=contribs,issues&show_icons=true&theme=radical&count_private=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -39,7 +39,7 @@
 
 ## Projects
 <div>
-  <img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaa884&langs_count=8&layout=compact&theme=radical" />
+  <img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashShukl&langs_count=8&layout=compact&theme=radical" />
 
   <ol>
     <li>SkyDrive</li>
