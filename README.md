@@ -9,9 +9,9 @@
 
 
 <p bgcolor="white" >
-  <a href="https://github.com/coderpen-me">
+  
     <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AkashShukl&hide=contribs,issues&show_icons=true&theme=radical&count_private=true" />
-  </a>
+
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
