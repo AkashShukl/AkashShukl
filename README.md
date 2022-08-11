@@ -1,4 +1,4 @@
-### Hi there this is Akash Shukla 👋
+### Hi there, this is Akash Shukla 👋
 
 
 🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
