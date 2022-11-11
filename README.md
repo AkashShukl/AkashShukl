@@ -1,7 +1,8 @@
 ### Hi there, this is Akash Shukla 👋
 
 
-🔭 I’m currently working as a Software Developer at TCS Digital( New Delhi) with Banking and Financial Unit my work includes development of spring based services.<br>
+🔭 I’m currently working as a Frontend Developer at Beautiful code LLP -Hyderabd
+Crafting SPA for Fintech Domain, using JavaScript and React, Day to Day Task includes but is not limited to going through JIRA Tickets and working on Creating/ debugging React application. Active participation in code reviews and brainstorming sessions.<br>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AkashShukl)
