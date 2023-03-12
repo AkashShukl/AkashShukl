@@ -43,6 +43,7 @@ Crafting SPA for Fintech Domain, using JavaScript and React, Day to Day Task inc
   <img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashShukl&langs_count=8&layout=compact&theme=radical" />
 
   <ol>
+     <li>Shopping Cart</li>
     <li>SkyDrive</li>
     <li>Face Recognition based Attendance management system</li>
     <li>Graph Algorithm visualizer </li>
