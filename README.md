@@ -6,7 +6,7 @@ Crafting SPA for Fintech Domain, using JavaScript and React, Day to Day Task inc
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AkashShukl)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaa884/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuklaa884@gmail.com)  [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://akash-portfolio-teal.vercel.app)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashshukl/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuklaa884@gmail.com)  [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://portfolio-one-taupe-20.vercel.app/)
 
 
 <p bgcolor="white" >
