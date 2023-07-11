@@ -1,8 +1,8 @@
 ### Hi there, this is Akash Shukla 👋
 
 
-🔭 I’m currently working as a Senior Software Engineer at Beautiful code LLP -Hyderabd
-Crafting SPA for Fintech Domain, using React and Python, Want to know more about me? visit [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://portfolio-one-taupe-20.vercel.app/).<br>
+🔭 I’m currently working as a Senior Software Engineer at Beautiful code LLP Hyderabd
+Crafting SPA for Fintech Domain, using React and Go lang, Want to know more about me? visit [![Portfolio](https://img.shields.io/badge/Akash-Portfolio-lightgrey)](https://portfolio-one-taupe-20.vercel.app/).<br>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AkashShukl)
